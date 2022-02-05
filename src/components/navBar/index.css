@@ -1,0 +1,19 @@
+.nav-header {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    background-color: rgb(11, 53, 100);
+}
+
+.nav-header-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 10px 0 20px;
+}
+
+.nav-header-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
